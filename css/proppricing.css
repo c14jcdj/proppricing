@@ -1,0 +1,10 @@
+body {
+  margin: 2% 2%;
+}
+
+header {
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 3em;
+  font-weight: bold;
+}
